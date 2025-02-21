@@ -1,5 +1,5 @@
 baseURL = 'https://www.davidbeck.online'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Private Blog'
 
 theme = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
