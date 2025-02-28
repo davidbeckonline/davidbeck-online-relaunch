@@ -2,4 +2,4 @@ baseURL = 'https://www.davidbeck.online'
 languageCode = 'en-us'
 title = 'Blog Relaunch'
 
-theme = ['ananke']
+theme = ['github.com/theNewDynamic/gohugo-theme-ananke/v2']
